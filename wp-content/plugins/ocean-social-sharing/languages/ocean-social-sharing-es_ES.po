@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Social Sharing\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-10-10 21:19:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-27 10:46+0000\n"
+"Last-Translator: sabiertas <angel@solucionesabiertas.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+"Language: es-ES"
+
+#: ocean-social-sharing.php:132 ocean-social-sharing.php:141
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#: ocean-social-sharing.php:195
+msgid "Ocean Social Sharing requires that you use ocean as your parent theme."
+msgstr "Ocean Social Sharing necesita que OceanWP sea el tema padre."
+
+#: ocean-social-sharing.php:195
+msgid "Install Ocean Now"
+msgstr "Instalar OceanWP ahora"
+
+#: ocean-social-sharing.php:209
+msgid "Social Sharing"
+msgstr "Compartir en redes sociales"
+
+#: ocean-social-sharing.php:222
+msgid "Sharing Buttons"
+msgstr "Botones de compartir"
+
+#: ocean-social-sharing.php:239 template/social-share.php:28
+msgid "Please Share This"
+msgstr "Por favor comparte esto"
+
+#: ocean-social-sharing.php:245
+msgid "Heading on Posts"
+msgstr "Cabecera en las entradas"
+
+#: ocean-social-sharing.php:261
+msgid "Twitter Handle"
+msgstr "Manejar twitter"
+
+#: ocean-social-sharing.php:278
+msgid "Links Borders Color"
+msgstr "Color del borde de los iconos"
+
+#: ocean-social-sharing.php:294
+msgid "Icons Background Color"
+msgstr "Color de fondo de los iconos"
+
+#: ocean-social-sharing.php:310
+msgid "Icons Color"
+msgstr "Color de los iconos"
+
+#: template/social-share.php:66
+msgid "Share on Twitter"
+msgstr "Compartir en twiter"
+
+#: template/social-share.php:76
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: template/social-share.php:86
+msgid "Share on Google+"
+msgstr "Compartir en Google+"
+
+#: template/social-share.php:96
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: template/social-share.php:106
+msgid "Share on LinkedIn"
+msgstr "Compartir en linkedin"
